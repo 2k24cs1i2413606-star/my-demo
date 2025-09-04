@@ -1,4 +1,5 @@
 # my-demo
-this is my git repository
-authore-haridutta tripathi
+this is my git repository.
+<br>
+Authore-Haridutta Tripathi
 
